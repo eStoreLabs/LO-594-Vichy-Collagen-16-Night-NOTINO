@@ -1,0 +1,507 @@
+{
+  "keys": [
+    "vichy/liftactiv-collagen-specialist-krem-ujedrniajacy-przeciw-zmarszczkom/"
+  ],
+  "rpc": "VCH08178",
+  "campaign": "Vichy Liftactiv Collagen Specialist 16 Night",
+  "language": "pl-PL",
+  "type": 0,
+  "dateOnSaleFrom": null,
+  "owner": "MatusC",
+  "contents": [
+    {
+      "name": "Vichy Liftactiv Collagen Specialist 16 Night",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "HEADER.jpg",
+                "element": "img",
+                "alt": "Zdrowie to podstawa. Zacznij od skóry.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "HEADER_mobile.jpg",
+                "element": "img",
+                "alt": "Zdrowie to podstawa. Zacznij od skóry.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV.jpg",
+                "element": "img",
+                "alt": "Liftactiv collagen specialist 16 Krem na dzień. Wzmacnia i wiąże kolageny. Redukuje 16 oznak starzenia się skóry.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV_mobile.jpg",
+                "element": "img",
+                "alt": "Liftactiv collagen specialist 16 Krem na dzień. Wzmacnia i wiąże kolageny. Redukuje 16 oznak starzenia się skóry.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">Co-Bonding -</span> <span style=\"font-weight: 300; text-transform: uppercase;\">unikalna Technologia wiązania Kolagenów</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "lineHeight": "1.2"
+                }
+              },
+              {
+                "name": "content",
+                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">Aby wzmocnić produkcję kolagenu, zastosowano trzy aktywne składniki - Peptydy, Ramnozę i Maitake - które razem tworzą technologię Co-bonding, wiążącą różne typy kolagenów.</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "lineHeight": "1.8",
+                  "marginRight": "20px"
+                }
+              },
+              {
+                "name": "asset",
+                "value": "MOD_03.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "20px 35px",
+              "marginBottom": "40px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_04.jpg",
+                "element": "img",
+                "alt": "Redukuje 16 oznak starzenia się skóry.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_04_mobile.jpg",
+                "element": "img",
+                "alt": "Redukuje 16 oznak starzenia się skóry.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_05.jpg",
+                "element": "img",
+                "alt": "Hipoalergiczna formuła. Odpowiednia także dla skóry wrażliwej. Lekka, aksamitna konsystencja.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_05_mobile.jpg",
+                "element": "img",
+                "alt": "Hipoalergiczna formuła. Odpowiednia także dla skóry wrażliwej. Lekka, aksamitna konsystencja.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">WYBIERZ KREM NA NOC</span> <span style=\"font-weight: 700; text-transform: uppercase;\">DOPASOWANY DO TWOICH POTRZEB</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "0",
+              "padding": "0 10px",
+              "textAlign": "center"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV COLLAGEN SPECIALIST 16 NA NOC\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Utrata kolagenu w skórze, zmarszczki. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, aksamitna, nieklejąca się konsystencja, która szybko wchłania się w skórę. Delikatny zapach.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD_06-A.jpg",
+                "alt": "VICHY LIFTACTIV COLLAGEN SPECIALIST 16 NA NOC",
+                "element": "img",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV HYALURON SPECIALIST NA NOC\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Zmarszczki i drobne linie, utrata jędrności skóry. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Szybko wchłanialna, nie klejąca się, nietłusta.\r\n</div>\r\n",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD_06-B.jpg",
+                "alt": "VICHY LIFTACTIV HYALURON SPECIALIST NA NOC",
+                "element": "img",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV PIGMENT SPECIALIST B3 NA NOC\r\n</span>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Przebarwienia, nierównomierny\r\nkoloryt skóry. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, nieklejąca, nietłusta konsystencja, która szybko się wchłania.\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD_06-C.jpg",
+                "alt": "VICHY LIFTACTIV PIGMENT SPECIALIST B3 NA NOC",
+                "element": "img",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "embeddedVideo",
+            "data": [
+              {
+                "name": "embeddedVideoId",
+                "value": "ofWR4cNijS8",
+                "element": "iframe"
+              }
+            ],
+            "properties": {},
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_07.jpg",
+                "element": "img",
+                "alt": "Poznaj pielęgnację redukującą 16 oznak starzenia.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD_07_mobile.jpg",
+                "element": "img",
+                "alt": "Poznaj pielęgnację redukującą 16 oznak starzenia.",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<span style=\"font-weight: 700;\">PIELĘGNACJA ANTI-AGING</span> <br> CZĘSTO ZADAWANE PYTANIA",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginBottom": "0",
+              "padding": "0 10px",
+              "textAlign": "left"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "<div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Co to jest kolagen i jak działa?</p>\r\n    <p>Kolagen jest jednym z najbardziej powszechnych białek w skórze. W ludzkim ciele zidentyfikowano co najmniej 28 typów kolagenu, z czego 16 w skórze. Odpowiada za zdrowy wygląd, świeżość i strukturę skóry.</p>\r\n  </div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Czy istnieje tylko jeden typ kolagenu?</p>\r\n    <p>Nie, to powszechny mit. W skórze rozpoznano 16 typów kolagenu tworzących jej unikalną matrycę. Ich koncentracja jest największa między 25 a 34 rokiem życia, a później naturalnie spada, dlatego z wiekiem ważne jest wspieranie ich wszystkich jednocześnie. Możesz to osiągnąć stosując krem Vichy Collagen Specialist 16, które wzmacnia skórę z widocznymi oznakami utraty kolagenu wzmacniając jego produkcję*.</p>\r\n    <p style=\"font-size: 13px;\">*Test in vitro.</p>\r\n  </div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Jak często powinnam stosować rutynę pielęgnacyjną Collagen Specialist 16</p>\r\n    <p>Rutyna Collagen Specialist 16 jest odpowiednia do codziennej pielęgnacji skóry już od 25 roku życia, kiedy produkcja naturalnego kolagenu w skórze maleje. Aby osiągnąć najlepsze rezultaty, stosuj serum rano i wieczorem na oczyszczoną i osuszoną twarz. Później, nałóż odpowiedni krem z linii Liftactiv na dzień lub na noc.</p>\r\n  </div>\r\n\r\n</div>\r\n\r\n<div style=\"margin-top: 1.2rem;\">\r\n  <ol style=\"font-size: 13px;\">\r\n    <li>Test in vitro na składniku aktywnym (kolagen I oraz III).</li>\r\n    <li>Wynki testów klinicznych, instrumentalnych oraz konsumenckich.</li>\r\n  </ol>\r\n</div>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
