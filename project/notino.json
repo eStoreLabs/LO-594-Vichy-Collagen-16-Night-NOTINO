@@ -234,7 +234,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">WYBIERZ KREM NA NOC</span> <span style=\"font-weight: 700; text-transform: uppercase;\">DOPASOWANY DO TWOICH POTRZEB</span>",
+                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">\r\n  WYBIERZ KREM NA NOC\r\n</span>\r\n\r\n<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  DOPASOWANY DO TWOICH POTRZEB\r\n</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
