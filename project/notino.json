@@ -234,7 +234,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">\r\n  WYBIERZ KREM NA NOC\r\n</span>\r\n\r\n<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  DOPASOWANY DO TWOICH POTRZEB\r\n</span>",
+                "value": "<span style=\"font-weight: 300; text-transform: uppercase;\">  WYBIERZ KREM NA NOC</span><span style=\"font-weight: 700; text-transform: uppercase;\">  DOPASOWANY DO TWOICH POTRZEB</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "30px",
@@ -267,7 +267,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV COLLAGEN SPECIALIST 16 NA NOC\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  VICHY LIFTACTIV COLLAGEN SPECIALIST 16 NA NOC</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -279,7 +279,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Utrata kolagenu w skórze, zmarszczki. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, aksamitna, nieklejąca się konsystencja, która szybko wchłania się w skórę. Delikatny zapach.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Utrata kolagenu w skórze, zmarszczki. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, aksamitna, nieklejąca się konsystencja, która szybko wchłania się w skórę. Delikatny zapach.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -298,7 +298,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV HYALURON SPECIALIST NA NOC\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  VICHY LIFTACTIV HYALURON SPECIALIST NA NOC</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -310,7 +310,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Zmarszczki i drobne linie, utrata jędrności skóry. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Szybko wchłanialna, nie klejąca się, nietłusta.\r\n</div>\r\n",
+                "value": "<div style=\"font-weight: 300;\">  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Zmarszczki i drobne linie, utrata jędrności skóry. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Szybko wchłanialna, nie klejąca się, nietłusta.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -329,7 +329,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">\r\n  VICHY LIFTACTIV PIGMENT SPECIALIST B3 NA NOC\r\n</span>",
+                "value": "<span style=\"font-weight: 700; text-transform: uppercase;\">  VICHY LIFTACTIV PIGMENT SPECIALIST B3 NA NOC</span>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -341,7 +341,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<div style=\"font-weight: 300;\">\r\n  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Przebarwienia, nierównomierny\r\nkoloryt skóry. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, nieklejąca, nietłusta konsystencja, która szybko się wchłania.\r\n</div>",
+                "value": "<div style=\"font-weight: 300;\">  <span style=\"font-weight: 700;\">Problem skóry</span> <br> Przebarwienia, nierównomiernykoloryt skóry. <br><br> <span style=\"font-weight: 700;\">Konsystencja</span> <br> Lekka, nieklejąca, nietłusta konsystencja, która szybko się wchłania.</div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "18px",
@@ -477,7 +477,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Co to jest kolagen i jak działa?</p>\r\n    <p>Kolagen jest jednym z najbardziej powszechnych białek w skórze. W ludzkim ciele zidentyfikowano co najmniej 28 typów kolagenu, z czego 16 w skórze. Odpowiada za zdrowy wygląd, świeżość i strukturę skóry.</p>\r\n  </div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Czy istnieje tylko jeden typ kolagenu?</p>\r\n    <p>Nie, to powszechny mit. W skórze rozpoznano 16 typów kolagenu tworzących jej unikalną matrycę. Ich koncentracja jest największa między 25 a 34 rokiem życia, a później naturalnie spada, dlatego z wiekiem ważne jest wspieranie ich wszystkich jednocześnie. Możesz to osiągnąć stosując krem Vichy Collagen Specialist 16, które wzmacnia skórę z widocznymi oznakami utraty kolagenu wzmacniając jego produkcję*.</p>\r\n    <p style=\"font-size: 13px;\">*Test in vitro.</p>\r\n  </div>\r\n\r\n  <div style=\"display: flex; flex-direction: column;\">\r\n    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Jak często powinnam stosować rutynę pielęgnacyjną Collagen Specialist 16</p>\r\n    <p>Rutyna Collagen Specialist 16 jest odpowiednia do codziennej pielęgnacji skóry już od 25 roku życia, kiedy produkcja naturalnego kolagenu w skórze maleje. Aby osiągnąć najlepsze rezultaty, stosuj serum rano i wieczorem na oczyszczoną i osuszoną twarz. Później, nałóż odpowiedni krem z linii Liftactiv na dzień lub na noc.</p>\r\n  </div>\r\n\r\n</div>\r\n\r\n<div style=\"margin-top: 1.2rem;\">\r\n  <ol style=\"font-size: 13px;\">\r\n    <li>Test in vitro na składniku aktywnym (kolagen I oraz III).</li>\r\n    <li>Wynki testów klinicznych, instrumentalnych oraz konsumenckich.</li>\r\n  </ol>\r\n</div>",
+                "value": "<div>  <div style=\"display: flex; flex-direction: column;\">    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Co to jest kolagen i jak działa?</p>    <p>Kolagen jest jednym z najbardziej powszechnych białek w skórze. W ludzkim ciele zidentyfikowano co najmniej 28 typów kolagenu, z czego 16 w skórze. Odpowiada za zdrowy wygląd, świeżość i strukturę skóry.</p>  </div>  <div style=\"display: flex; flex-direction: column;\">    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Czy istnieje tylko jeden typ kolagenu?</p>    <p>Nie, to powszechny mit. W skórze rozpoznano 16 typów kolagenu tworzących jej unikalną matrycę. Ich koncentracja jest największa między 25 a 34 rokiem życia, a później naturalnie spada, dlatego z wiekiem ważne jest wspieranie ich wszystkich jednocześnie. Możesz to osiągnąć stosując krem Vichy Collagen Specialist 16, które wzmacnia skórę z widocznymi oznakami utraty kolagenu wzmacniając jego produkcję*.</p>    <p style=\"font-size: 13px;\">*Test in vitro.</p>  </div>  <div style=\"display: flex; flex-direction: column;\">    <p style=\"font-weight: 700; margin-bottom: 1rem;\">Jak często powinnam stosować rutynę pielęgnacyjną Collagen Specialist 16</p>    <p>Rutyna Collagen Specialist 16 jest odpowiednia do codziennej pielęgnacji skóry już od 25 roku życia, kiedy produkcja naturalnego kolagenu w skórze maleje. Aby osiągnąć najlepsze rezultaty, stosuj serum rano i wieczorem na oczyszczoną i osuszoną twarz. Później, nałóż odpowiedni krem z linii Liftactiv na dzień lub na noc.</p>  </div></div><div style=\"margin-top: 1.2rem;\">  <ol style=\"font-size: 13px;\">    <li>Test in vitro na składniku aktywnym (kolagen I oraz III).</li>    <li>Wynki testów klinicznych, instrumentalnych oraz konsumenckich.</li>  </ol></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "16px",
